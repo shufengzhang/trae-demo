@@ -1,0 +1,7 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+# 环境变量文件
+.env
+# Node.js依赖（如果是前端项目）
+node_modules/
